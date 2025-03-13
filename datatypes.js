@@ -15,4 +15,11 @@
  * 2.data type
  * Objectss
  */
-console.log("data types")
+console.log("PRIMITIVE DATATYPES")
+console.log("--------------")
+// String
+var name = "Bhawna"
+var title = "Shukla"
+console.log(name)
+console.log(title)
+
