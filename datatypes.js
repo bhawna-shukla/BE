@@ -15,3 +15,4 @@
  * 2.data type
  * Objectss
  */
+console.log("data types")
