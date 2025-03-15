@@ -43,7 +43,7 @@ console.log(sub(8,6))
  }
  console.log(process(5,6))
 
-//  --ANONYMOUS
+//  --ANONYMOUS IIFE(immediate invoked function expression)
 (function(){
     console.log("hello dear")
 })()
