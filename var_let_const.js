@@ -17,7 +17,7 @@ console.log("-----------")
 
 {
     var a=90
-   
+   console.log(a)
 }
 console.log(a)
 console.log("-------------")
@@ -33,12 +33,15 @@ console.log(m)
 */
 // console.log(j)
 // let j=10
-
+// console.log(city)
+let city = "delhi"
+console.log(city) // Output: delhi
+console.log('-------------')
 {
     let name = "bhawna"
     console.log(name) // Output: bhawna
 }
-console.log(name) // Output: ReferenceError: name is not defined
+// console.log(name) // Output: ReferenceError: name is not defined
 
 /** CONST
 1.its is used to define a constant variable
