@@ -22,4 +22,4 @@ console.log(data)
 const {name,rollno,address:{city,state}}=data
 console.log(name)
 console.log(rollno)
-console.log(state)
+console.log(state) 
