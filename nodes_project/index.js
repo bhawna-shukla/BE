@@ -1,4 +1,6 @@
  /* bring the logic  of adding two numbers?*/
-  const sum = require("./myModule.js")
-  console.log(sum)
-  console.log(sum(5,6))
+  const operation = require("./myModule.js")
+  console.log(typeof operation)
+  console.log(operation)
+  console.log(operation.add(5,6))
+  console.log(operation.prod(5,5))

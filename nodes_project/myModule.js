@@ -2,4 +2,11 @@ let add = (a,b)=>{
     return a+b
 }
 
-module.exports = add
+   let prod= (a,b)=>{
+    return a*b
+}
+
+module.exports = {
+  add: add,
+  prod : prod
+}
